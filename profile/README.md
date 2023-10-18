@@ -12,3 +12,5 @@ IronPulse Robotics 平和机器人社建立于2016年，FRC队号为 6941。我�
 **乐享共荣 Be Willing to Share**
 
 代表我们向社区和更多青少年推广科技教育的美好愿景。积极参与社区讨论，组织社区内的分享，引领技术进步，指导新队伍，把 FIRST 和机器人带给更多人。
+
+<img width="1259" alt="image" src="https://github.com/frc6941/.github/assets/62578958/421f6953-8d8d-4918-bdeb-9f15e069486b">
